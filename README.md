@@ -10,6 +10,7 @@
 - This is a TEXT BASED Adventure game. So it works fine on your terminal.
 - I have come up with a brief story line involving a hero
 - I have created a set of functions that offer a player choices of how to proceed in the game.
+- The climax changes based on the user's choices.
 - Used random module for playing the dice which takes the player to the next stage according to the value generated.
 
 #### There are no pre requisites. You can directly run the code in your IDE.
